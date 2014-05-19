@@ -7,7 +7,7 @@ require "formula"
 class Lors < Formula
   homepage "http://loci.eecs.utk.edu"
   url "https://github.com/LogisticalComputingAndInternetworking/LoRS/archive/0.82.8.tar.gz"
-  sha1 "38aa2ad59e8a75e2ba0ce7247b3f2c13740aae18" 
+  sha1 "f460a5a205d82ec3a01fd8c8348d4a9da9e91f05"
 
   # dependencies
   depends_on "popt"
